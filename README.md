@@ -1,6 +1,6 @@
 ## Zara Shahid
 
-##About Me
+## About Me
 Diligent Quality insurance software engineer with 10 years of experience in business applications. Experience in Manual & Automated Testing for Software Quality Assurance (SQA). Knowledgeable in Open-Source Automation Tools (Selenium, Agile). Skilled in developing plans, managing projects, and user documentation.
 
 ### Markdown
