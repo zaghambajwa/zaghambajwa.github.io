@@ -1,8 +1,7 @@
 ## Zara Shahid
 
-You can use the [editor on GitHub](https://github.com/zaghambajwa/zaghambajwa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##About Me
+Diligent Quality insurance software engineer with 10 years of experience in business applications. Experience in Manual & Automated Testing for Software Quality Assurance (SQA). Knowledgeable in Open-Source Automation Tools (Selenium, Agile). Skilled in developing plans, managing projects, and user documentation.
 
 ### Markdown
 
